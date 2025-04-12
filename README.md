@@ -14,3 +14,4 @@ A car finder web app that allows users to search, filter, and sort cars based on
 - **State Management**: React Hooks (useState, useEffect, useMemo)
 - **Animations**: Framer Motion
 - **Icons**: Material UI Icons
+- **API**: The project uses mock data for cars, but it can easily be connected to a real API.
